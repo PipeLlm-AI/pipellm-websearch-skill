@@ -1,6 +1,7 @@
 ---
 name: pipellm-web-search
 description: "Use when you need to search the web, read web pages, or find current news. Provides 4 search tools via PipeLLM API with scenario-based selection guidance."
+allowed-tools: ["Bash", "Read", "fetch", "curl"]
 ---
 
 # PipeLLM Web Search
