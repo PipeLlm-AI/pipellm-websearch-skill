@@ -1,0 +1,14 @@
+{
+  "name": "pipellm-websearch",
+  "displayName": "PipeLLM WebSearch",
+  "description": "Web search skill for coding agents — search the web, read pages, and find news via PipeLLM API",
+  "version": "1.0.0",
+  "author": {
+    "name": "PipeLLM AI"
+  },
+  "homepage": "https://github.com/PipeLlm-AI/pipellm-websearch-skill",
+  "repository": "https://github.com/PipeLlm-AI/pipellm-websearch-skill",
+  "license": "MIT",
+  "keywords": ["skills", "web-search", "rag", "news", "pipellm"],
+  "skills": "./skills/"
+}

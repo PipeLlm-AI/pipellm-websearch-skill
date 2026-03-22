@@ -1,0 +1,18 @@
+{
+  "name": "pipellm-websearch",
+  "description": "Marketplace for PipeLLM WebSearch skill",
+  "owner": {
+    "name": "PipeLLM AI"
+  },
+  "plugins": [
+    {
+      "name": "pipellm-websearch",
+      "description": "Web search skill for coding agents — search the web, read pages, and find news via PipeLLM API",
+      "version": "1.0.0",
+      "source": "./",
+      "author": {
+        "name": "PipeLLM AI"
+      }
+    }
+  ]
+}
